@@ -5,4 +5,4 @@ animal=( dog cat1 cow lion )
 #animal[2]="cow"
 #animal[3]="lion"
 
-echo ${animal[5]}
+echo ${#animal[@]}
